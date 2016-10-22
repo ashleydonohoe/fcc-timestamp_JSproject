@@ -2,12 +2,9 @@
   "name": "timestamp-service",
   "version": "1.0.0",
   "description": "FCC's first full-stack project",
-  "engines": {
-    "node": "5.9.1"
-  },
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "author": "Ashley Donohoe",
   "license": "ISC",
