@@ -1,0 +1,15 @@
+{
+  "name": "timestamp-service",
+  "version": "1.0.0",
+  "description": "FCC's first full-stack project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashley Donohoe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "moment": "^2.15.1"
+  }
+}
